@@ -1,0 +1,4 @@
+-> To run the project open the fresh_tomatoes html document in a browser OR open the entertainment_center.py file and run it using python.
+-> media.py contains the class movie.
+-> entertainment_center.py contains the various instances of class movie.
+-> fresh_tomatoes.py contains the front-end provided by Udacity with a few modifications.
